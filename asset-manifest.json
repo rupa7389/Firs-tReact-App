@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Firs-tReact-App/static/css/main.dc4d6ff2.css",
+    "main.js": "/Firs-tReact-App/static/js/main.20606cd4.js",
+    "static/js/453.03e9fbf5.chunk.js": "/Firs-tReact-App/static/js/453.03e9fbf5.chunk.js",
+    "index.html": "/Firs-tReact-App/index.html",
+    "main.dc4d6ff2.css.map": "/Firs-tReact-App/static/css/main.dc4d6ff2.css.map",
+    "main.20606cd4.js.map": "/Firs-tReact-App/static/js/main.20606cd4.js.map",
+    "453.03e9fbf5.chunk.js.map": "/Firs-tReact-App/static/js/453.03e9fbf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.20606cd4.js"
+  ]
+}
